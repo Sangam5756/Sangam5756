@@ -4,7 +4,7 @@
 <br>
 
 
-<summary>Coding Stats</summary>
+Coding Stats
   
   <div align=center>
        
