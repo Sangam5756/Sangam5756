@@ -52,15 +52,3 @@
 
 
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
-
-  <img width=390 src="https://leetcode.card.workers.dev/sangammunde3?theme=dark&font=baloo&extension=null&theme=dark"/>
-    <br>
-    <br>
-  <img  width=800 height=600 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
-    
-</div>
