@@ -3,18 +3,17 @@
 
 
 <h1 align="center">A passionate software developer from India</h1>
-<div align="left">
-  
-  <p>★ &nbsp;<img  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" /> </p>
-  
+<div align="left">  
+  <p>★ &nbsp;<img  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" /> </p>  
   <p >★  &nbsp;<img  src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" /></p>
 </div>
 
-
+<p>★  &nbspI’m currently learning : AWS and FRONTEND SYSTEM DESIGN**</p>
 
 <div align="center">
 <h2  align="center">Projects-Demo</h2>
   <br/>
+  <p>All of my projects are available at</p>
  <a  align="center" href="https://linktr.ee/sangamprojects" target="_blank"><img width="300" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-badge&logo=linktree&logoColor=green" target="_blank" /></a>    
 </div>
 <br>
