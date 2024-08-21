@@ -8,9 +8,10 @@
 <h1 align="center">A passionate software developer from India</h1>
 
 <div align="center">
-<div align="center">Projects-Demo</div>
- <a align="center" href="https://linktr.ee/sangamprojects" target="_blank">
-    <img width="200" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-badge&logo=linktree&logoColor=green" target="_blank" />
+<div  align="center">Projects-Demo</div>
+  <br/>
+ <a  align="center" href="https://linktr.ee/sangamprojects" target="_blank">
+    <img width="300" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-badge&logo=linktree&logoColor=green" target="_blank" />
         </a>
     
 </div>
