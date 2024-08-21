@@ -1,21 +1,23 @@
-  <img align="right" src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" /> 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" />
 
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&du ration=4000&lines=Hi+There!+👋;+I'm+Sangam+Mundhe!;" />
-</div>
+
+
 
 <h1 align="center">A passionate software developer from India</h1>
+<div align="left">
+  
+  <p>★ &nbsp;<img  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" /> </p>
+  
+  <p >★  &nbsp;<img  src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" /></p>
+</div>
+
+
 
 <div align="center">
-<div  align="center">Projects-Demo</div>
+<h2  align="center">Projects-Demo</h2>
   <br/>
- <a  align="center" href="https://linktr.ee/sangamprojects" target="_blank">
-    <img width="300" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-badge&logo=linktree&logoColor=green" target="_blank" />
-        </a>
-    
+ <a  align="center" href="https://linktr.ee/sangamprojects" target="_blank"><img width="300" src="https://img.shields.io/badge/PROJECTS-black?style=for-the-badge&logo=linktree&logoColor=green" target="_blank" /></a>    
 </div>
-<hr>
+<br>
 
 
 
@@ -37,7 +39,8 @@
    </a>
    
 </div>
-<hr/>
+
+<br>
 
 
 
@@ -49,7 +52,7 @@
 
 
 </div>
-<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
