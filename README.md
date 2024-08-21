@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">A passionate software developer from India</h1>
-<hr>
+
 <div align="center">
 <div align="center">Projects-Demo</div>
  <a align="center" href="https://linktr.ee/sangamprojects" target="_blank">
