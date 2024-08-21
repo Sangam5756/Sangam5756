@@ -8,7 +8,7 @@
   <p >★  &nbsp;<img  src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" /></p>
 </div>
 
-<p>★  &nbspI’m currently learning : AWS and FRONTEND SYSTEM DESIGN**</p>
+<p>★  &nbspI’m currently learning : AWS and FRONTEND SYSTEM DESIGN</p>
 
 <div align="center">
 <h2  align="center">Projects-Demo</h2>
