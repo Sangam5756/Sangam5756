@@ -6,7 +6,7 @@
 <div align="left">  
   <p>★ &nbsp;<img  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" /> </p>  
   <p >★  &nbsp;<img  src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" /></p>
-</div>
+</div> 
 
 <p>★  &nbspI’m currently learning : AWS and FRONTEND SYSTEM DESIGN</p>
 
