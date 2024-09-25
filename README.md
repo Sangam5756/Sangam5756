@@ -31,7 +31,7 @@ I am currently pursuing a **Bachelor of Engineering in Computer Engineering** at
 <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe5756.onrender.com/" target="_blank">Click Here</a></p>
 
 <details>
-  <summary><b>VidVault</b> (Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
+  <summary><b><img src="https://w7.pngwing.com/pngs/256/352/png-transparent-mx-player-android-android-logo-video-player-media-player-thumbnail.png" alt="VidVault Logo" width="20px" height="20px"/> VidVault</b>(Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
   <br>
   VidVault is a full-stack video-sharing platform developed using **React** and **Redux**.
   - Enhanced **user engagement** by 30% and reduced **page load time** by 25% with optimized component architecture.
@@ -90,13 +90,3 @@ I am currently pursuing a **Bachelor of Engineering in Computer Engineering** at
 ---
 
 
-## 🌐 Connect with Me
-
-  <a href="https://www.linkedin.com/in/sangammundhe" target="_blank">
-    <img width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wakatime.com/@sangammundhe" target="_blank">
-    <img width="200" src="https://img.shields.io/badge/Wakatime-black?style=for-the-badge" alt="Wakatime"/>
-  </a>
-
-</div>
