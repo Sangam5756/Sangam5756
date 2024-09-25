@@ -11,7 +11,9 @@
 ---
 
 ## 💻 About Me
-I am currently pursuing a **Bachelor of Engineering in Computer Engineering** at **PDEA’s College of Engineering, Pune** with a CGPA of **9+**. I have over a year of full-stack development experience, primarily using the **MERN stack**. My goal is to build efficient, scalable, and user-friendly applications.
+
+  I am currently pursuing a **Bachelor of Engineering in Computer Engineering** at **Savitribai Phule Pune University** with a CGPA of **9+**. I have over a year of full-stack development experience, primarily using the **MERN stack**. My goal is to build efficient, scalable, and user-friendly applications.
+Graduation year 2021-2025
 
 ---
 
