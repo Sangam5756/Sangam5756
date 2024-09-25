@@ -5,12 +5,7 @@
   <p>★ &nbsp;<img src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" alt="wakatime badge"/> &nbsp;★ &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" alt="visitors badge"/></p>
   <p>★ &nbsp;<strong>Email:</strong> sangammunde3@gmail.com</p>
   <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe5756.onrender.com/" target="_blank">Click Here</a></p>
-   <a href="mailto:sangammunde3@gmail.com" target="_blank">
-    <img width="100" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-  </a>  
-    <a href="https://sangammundhe5756.onrender.com/" target="_blank">
-    <img width="100" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio"/>
-  </a>
+
 </div>
 
 ---
