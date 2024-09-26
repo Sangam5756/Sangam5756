@@ -12,15 +12,14 @@
 
 ## 💻 About Me
 
-  I am currently pursuing a **Bachelor of Engineering in Computer Engineering** at **Savitribai Phule Pune University** with a CGPA of **9+**. I have over a year of full-stack development experience, primarily using the **MERN stack**. My goal is to build efficient, scalable, and user-friendly applications.
-Graduation year 2021-2025
+  I am currently pursuing a **B.E in Computer Engineering** at **Savitribai Phule Pune University** with a CGPA of **9+**.  I have over a year of full-stack development experience, primarily using the **MERN stack**. My goal is to build efficient, scalable, and user-friendly applications. Graduation year 2021-2025
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frontend**: HTML, CSS, React, Redux, Tailwind CSS, MUI, Bootstrap
+- **Languages**: JavaScript,java
+- **Frontend**: HTML, CSS, React.js, Redux, Tailwind CSS, MUI, Bootstrap
 - **Backend**: Node.js, Express.js, REST APIs, JWT
 - **Databases**: MongoDB, SQL, PostgreSQL
 - **Tools**: Git, GitHub, Unix/Linux
