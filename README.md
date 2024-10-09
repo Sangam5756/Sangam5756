@@ -30,7 +30,7 @@
 
 ## 🚀 My Projects
 <details>
-   <summary><b> VIEW</b> | <a href="https://estore-sangam5756.onrender.com" target="_blank">PORTFOLIO</a></summary>
+   <summary><b> VIEW</b> </summary>
 
   <br>
 
