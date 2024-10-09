@@ -29,7 +29,10 @@
 ---
 
 ## 🚀 My Projects
-<p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe5756.onrender.com/" target="_blank">Click Here</a></p>
+<details>
+   <summary><b> VIEW</b> | <a href="https://estore-sangam5756.onrender.com" target="_blank">PORTFOLIO</a></summary>
+
+  <br>
 
 <details>
   <summary><b><img src="https://w7.pngwing.com/pngs/256/352/png-transparent-mx-player-android-android-logo-video-player-media-player-thumbnail.png" alt="VidVault Logo" width="20px" height="20px"/> VidVault</b>(Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
@@ -66,13 +69,13 @@
   - Deployed on **Firebase** for fast and scalable access, enhancing app performance.
   - Developed using **React**, **Redux**, and **Tailwind CSS** to ensure a modern, responsive design.
 </details>
+</details>
 
----
 
 ## 🎯 Currently Learning
 - **React.js**: Deepening my skills in component architecture and state management.
 
----
+
 
 ## 📊 GitHub & Coding Stats
 
