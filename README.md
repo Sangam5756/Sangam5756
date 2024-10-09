@@ -35,7 +35,7 @@
   <br>
 
 <details>
-  <summary><b><img src="https://w7.pngwing.com/pngs/256/352/png-transparent-mx-player-android-android-logo-video-player-media-player-thumbnail.png" alt="VidVault Logo" width="20px" height="20px"/> VidVault</b>(Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
+  <summary><b> VidVault</b>(Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
   <br>
   VidVault is a full-stack video-sharing platform developed using **React** and **Redux**.
   - Enhanced **user engagement** by 30% and reduced **page load time** by 25% with optimized component architecture.
