@@ -42,7 +42,7 @@
 </details>
 
 <details>
-   <summary><b>DevBlog</b>(Jul 2024 - Aug 2024) | <a href="https://medium-blog-eight-lac.vercel.app/signin" target="_blank"> Link</a></summary>
+   <summary><b>DevBlog</b>(Jul 2024 - Aug 2024) | <a href="https://medium-blog-eight-lac.vercel.app" target="_blank"> Link</a></summary>
   <br>
    - Built a secure blog platform using the **MERN** stack (MongoDB, Express.js, React, Node.js) with **JWT** authentication and full **CRUD** operations.
   - Integrated **Prisma ORM** for efficient database management and query optimization, enhancing performance and scalability.
