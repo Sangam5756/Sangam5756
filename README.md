@@ -42,9 +42,9 @@
 </details>
 
 <details>
-   <summary><b>DevBlog</b>(Jul 2024 - Aug 2024) | <a href=" https://medium-blog-eight-lac.vercel.app/signin" target="_blank">Link</a></summary>
+   <summary><b>DevBlog</b>(Jul 2024 - Aug 2024) | <a href="https://medium-blog-eight-lac.vercel.app/signin" target="_blank"> Link</a></summary>
   <br>
-  Built a secure blog platform using the **MERN** stack (MongoDB, Express.js, React, Node.js) with **JWT** authentication and full **CRUD** operations.
+   - Built a secure blog platform using the **MERN** stack (MongoDB, Express.js, React, Node.js) with **JWT** authentication and full **CRUD** operations.
   - Integrated **Prisma ORM** for efficient database management and query optimization, enhancing performance and scalability.
   - Implemented **middleware** for route protection, ensuring secure access control for authenticated users.
   - Utilized **Cloudflare Workers** for backend development and deployment, leveraging their serverless environment to handle up to 100,000 requests per month, improving scalability and reducing server load.
@@ -87,6 +87,8 @@
   - Deployed on **Firebase** for fast and scalable access, enhancing app performance.
   - Developed using **React**, **Redux**, and **Tailwind CSS** to ensure a modern, responsive design.
 </details>
+
+
 </details>
 
 
