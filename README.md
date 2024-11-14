@@ -22,7 +22,7 @@
 - **Frontend**: HTML, CSS, React.js, Redux, Tailwind CSS, MUI, Bootstrap
 - **Backend**: Node.js, Express.js, REST APIs, JWT
 - **Databases**: MongoDB, SQL, PostgreSQL
-- **Tools**: Git, GitHub, Unix/Linux
+- **Tools**: Git,Docker, GitHub, Unix/Linux
 - **Soft Skills**: Communication, Teamwork, Problem-solving
   
 
