@@ -33,8 +33,26 @@
    <summary><b> VIEW</b> </summary>
 
   <br>
+ <details>
+  <summary><b> DevTinder</b>(Aug 2024 - Sep 2024) | <a href="https://github.com/Sangam5756/NamasteNodeJs/blob/master/backend" target="_blank">Link</a></summary>
+  <br>
+  - Social-media application for developers, built with the MERN stack. Implemented user authentication,profile management, and secure profile browsing.
+  - Enabled CRUD for accounts, requests, and real-time updates for connection requests.
+  - Optimized RESTful APIs for scalability and high performance.
+</details>
 
 <details>
+   <summary><b>DevBlog</b>(Jul 2024 - Aug 2024) | <a href=" https://medium-blog-eight-lac.vercel.app/signin" target="_blank">Link</a></summary>
+  <br>
+  Built a secure blog platform using the **MERN** stack (MongoDB, Express.js, React, Node.js) with **JWT** authentication and full **CRUD** operations.
+  - Integrated **Prisma ORM** for efficient database management and query optimization, enhancing performance and scalability.
+  - Implemented **middleware** for route protection, ensuring secure access control for authenticated users.
+  - Utilized **Cloudflare Workers** for backend development and deployment, leveraging their serverless environment to handle up to 100,000 requests per month, improving scalability and reducing server load.
+</details>
+
+
+
+<details> 
   <summary><b> VidVault</b>(Jun 2024 - Jul 2024) | <a href="https://estore-sangam5756.onrender.com" target="_blank">Link</a></summary>
   <br>
   VidVault is a full-stack video-sharing platform developed using **React** and **Redux**.
