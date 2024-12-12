@@ -8,8 +8,14 @@
 
 </div>
 
+
+## 🎯 Currently Learning
+- **React.js**: Deepening my skills in component architecture and state management.
+ <img width="800" height="400" src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg" alt="WakaTime Coding Activity" />
+
+
 ---
- 
+<!---
 ## 💻 About Me
 
   I am currently pursuing a **B.E in Computer Engineering** at **Savitribai Phule Pune University** with a CGPA of **9+**.primarily using the **MERN stack**. My goal is to build efficient, scalable, and user-friendly applications. Graduation year 2021-2025
@@ -92,10 +98,6 @@
 </details>
 
 
-## 🎯 Currently Learning
-- **React.js**: Deepening my skills in component architecture and state management.
-
-
 
 ## 📊 GitHub & Coding Stats
 
@@ -112,5 +114,5 @@
 </details>
 
 ---
-
+-->
 
