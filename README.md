@@ -11,7 +11,7 @@
 
 ## 🎯 Currently Learning
 - **React.js**: Deepening my skills in component architecture and state management.
- <img width="800" height="400" src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg" alt="WakaTime Coding Activity" />
+
 
 
 ---
