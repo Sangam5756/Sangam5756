@@ -1,12 +1,6 @@
- # Hello, I'm Sangam Mundhe 👋 
-
-  <p>★ &nbsp;<img src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" alt="wakatime badge"/> &nbsp;
-  <br/> ★ &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" alt="visitors badge"/></p>
+  <p>★ &nbsp;<img src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" alt="wakatime badge"/> &nbsp; &nbsp;★ &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" alt="visitors badge"/></p>
   <p>★ &nbsp;<strong>Email:</strong> sangammunde3@gmail.com</p>
   <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe5756.onrender.com/" target="_blank">Click Here</a></p>
-
-
-
 
 ## 🎯 Currently Learning
 - **React.js**: Deepening my skills in component architecture and state management.
