@@ -3,7 +3,7 @@
   <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe5756.onrender.com/" target="_blank">Click Here</a></p>
 
 ## 🎯 Currently Learning
-- **Websocket and payment integration** 
+- **SECURELY STREAMING THE VIDEOS** 
 
 
 
