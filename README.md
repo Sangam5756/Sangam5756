@@ -3,7 +3,7 @@
   <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe.site/" target="_blank">Click Here</a></p>
 
 ## 🎯 Currently Learning
-- **DEVOPS** 
+- **SYSTEM DESIGN** 
 
 
 
