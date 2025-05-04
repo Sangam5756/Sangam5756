@@ -2,8 +2,8 @@
   <p>★ &nbsp;<strong>Email:</strong> sangammunde3@gmail.com</p>
   <p>★ &nbsp;<strong>Portfolio:</strong> <a href="https://sangammundhe.site/" target="_blank">Click Here</a></p>
 
-## 🎯 Currently Learning
-- **AI/ML** 
+<!-- ## 🎯 Currently Learning
+ - **AI/ML** 
 
 
 
