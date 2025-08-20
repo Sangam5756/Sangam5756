@@ -3,5 +3,5 @@
 # 💫 About Me:
 👋 Hi, I’m Sangam Mundhe
 <br>📫 Reach me https://www.linkedin.com/in/sangammundhe/
-<br>📫 Reach me https://www.x.com/sangammundhe
+
 
